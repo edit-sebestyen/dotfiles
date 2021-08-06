@@ -78,7 +78,7 @@ Clone the repo:
 
 ```
 # Clone in a `.dotfiles` folder as all scripts will reference it
-git clone https://github.com/radum/dotfiles.git ~/.dotfiles
+git clone https://github.com/edit-sebestyen/dotfiles.git ~/.dotfiles
 ```
 
 Then, run these steps:
